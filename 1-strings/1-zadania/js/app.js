@@ -34,17 +34,16 @@
 // console.log(text.toLocaleLowerCase());
 
 
-//
+
 // function replaceChar(str) {
+//     let result = [];
 //     for (let i = 0; i <= str.length;  i++) {
-//         if (i % 2 === 0 && str[i]!== " ") {
-//             console.log(str[i]);
-//             str[i] = str[i].toString().toUpperCase();
-//             console.log(str[i]);
-//         }
+//         result[i] = (i % 2 === 0) ? str[i].toUpperCase() : str[i];
 //     }
-//     return str;
+//     return result.join('');
 // }
+//
+//
 //
 // console.log(replaceChar('Ala ma kota'));
 
