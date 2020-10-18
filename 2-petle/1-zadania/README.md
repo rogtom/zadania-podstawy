@@ -1,7 +1,7 @@
 # Zadania - pętle i instrukcje warunkowe
 
 ## Zadanie 1
-Za pomocą pętli wypisz w konsoli tekst `12345678910`
+Za pomocą pętli wypisz w konsoli tekst. `12345678910`
 
 ## Zadanie 2
 Stwórz zmienną `n`, pod którą postawisz jakąś liczbę całkowitą z przedziału 1-10 oraz dodatkową zmienną `txt`, która będzie zawierać jakiś tekst np. `kot`.
